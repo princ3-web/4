@@ -9,6 +9,7 @@ import image5 from "../assets/images/5.jpg";
 import { grey } from "@mui/material/colors";
 
 const Home = () => {
+  const companyName = "Sofia Lindström";
 
   const projects = [
     { title: "session one", image: image1 },
